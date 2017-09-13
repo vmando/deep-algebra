@@ -7,3 +7,5 @@ New mathematical concepts are TYPES. Particular realization of a given TYPE is a
 
 E.g. "Let $X$ be a scheme", here "X" is VAR of TYPE "scheme".
 
+We use spaCy for semantic tagging.
+
